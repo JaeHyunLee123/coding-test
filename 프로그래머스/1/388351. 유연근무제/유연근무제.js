@@ -14,30 +14,6 @@ const timeSum = (currentTime, addTime) => {
     }
 }
 
-//60진법 시간 뺄셈을 위한 함수
-const timeMinus = (targetTime, minusTime) => {
-    if(minusTime > targetTime){
-        return 0;
-    }
-    
-    const targetHour = targetTime % 100;
-    const targetMinutes = targetTime - targetHour;
-    
-    const minusHour = minusTime % 100;
-    const minusMinutes = minusTime - minusHour;
-    
-    const newHour = targetHour - minusHour;
-    const newMinutes = targetMinutes - minusMinutes;
-    
-    //분이 음수면 내림 처리
-    if(newMinutes < 0){
-        return (newHour - 1) * 100 + newMinutes + 60;
-    }else{
-        return newHour * 100 + newMinutes;
-    }
-    
-}
-
 function solution(schedules, timelogs, startday) {
     let answer = 0;
     
@@ -48,6 +24,7 @@ function solution(schedules, timelogs, startday) {
         //출근 성공 횟수
         let success = 0;
         
+        //출근 마감 시간
         const marginTime = timeSum(schedules[i], 10);
         
         for(let j = 0; j < timelogs[i].length; j++){
@@ -55,8 +32,7 @@ function solution(schedules, timelogs, startday) {
             if((j + startday) % 7 === 6 || (j + startday) % 7 === 0) {     
                 continue;
             };
-            
-            
+              
             if(marginTime >= timelogs[i][j]){
                 success++;
             }else{
