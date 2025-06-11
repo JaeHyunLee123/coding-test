@@ -7,6 +7,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/JaeHyunLee123/coding-test/tree/master/0088-merge-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/JaeHyunLee123/coding-test/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -15,4 +16,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/JaeHyunLee123/coding-test/tree/master/0088-merge-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/JaeHyunLee123/coding-test/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
