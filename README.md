@@ -20,4 +20,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/JaeHyunLee123/coding-test/tree/master/0643-maximum-average-subarray-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/JaeHyunLee123/coding-test/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/JaeHyunLee123/coding-test/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
