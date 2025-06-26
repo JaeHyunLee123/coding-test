@@ -28,4 +28,16 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/JaeHyunLee123/coding-test/tree/master/0191-number-of-1-bits) |
+## String
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/JaeHyunLee123/coding-test/tree/master/2470-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/JaeHyunLee123/coding-test/tree/master/2470-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/JaeHyunLee123/coding-test/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
