@@ -6,6 +6,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/JaeHyunLee123/coding-test/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/JaeHyunLee123/coding-test/tree/master/0088-merge-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/JaeHyunLee123/coding-test/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
@@ -40,4 +41,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/JaeHyunLee123/coding-test/tree/master/2470-removing-stars-from-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/JaeHyunLee123/coding-test/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/JaeHyunLee123/coding-test/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
