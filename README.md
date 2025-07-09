@@ -6,12 +6,14 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/JaeHyunLee123/coding-test/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/JaeHyunLee123/coding-test/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/JaeHyunLee123/coding-test/tree/master/0088-merge-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/JaeHyunLee123/coding-test/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/JaeHyunLee123/coding-test/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/JaeHyunLee123/coding-test/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
