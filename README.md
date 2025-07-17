@@ -9,6 +9,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0027-remove-element](https://github.com/JaeHyunLee123/coding-test/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/JaeHyunLee123/coding-test/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/JaeHyunLee123/coding-test/tree/master/0088-merge-sorted-array) |
+| [0200-number-of-islands](https://github.com/JaeHyunLee123/coding-test/tree/master/0200-number-of-islands) |
 | [0643-maximum-average-subarray-i](https://github.com/JaeHyunLee123/coding-test/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
@@ -51,4 +52,20 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/JaeHyunLee123/coding-test/tree/master/0055-jump-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/JaeHyunLee123/coding-test/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/JaeHyunLee123/coding-test/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/JaeHyunLee123/coding-test/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/JaeHyunLee123/coding-test/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
