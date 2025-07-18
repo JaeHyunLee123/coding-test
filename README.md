@@ -10,6 +10,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0055-jump-game](https://github.com/JaeHyunLee123/coding-test/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/JaeHyunLee123/coding-test/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/JaeHyunLee123/coding-test/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/JaeHyunLee123/coding-test/tree/master/0215-kth-largest-element-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/JaeHyunLee123/coding-test/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
@@ -20,6 +21,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/JaeHyunLee123/coding-test/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/JaeHyunLee123/coding-test/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -28,6 +30,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/JaeHyunLee123/coding-test/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/JaeHyunLee123/coding-test/tree/master/0215-kth-largest-element-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -68,4 +71,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/JaeHyunLee123/coding-test/tree/master/0200-number-of-islands) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/JaeHyunLee123/coding-test/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/JaeHyunLee123/coding-test/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
